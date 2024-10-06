@@ -1,3 +1,6 @@
+
+![archlinux-logo-light-1200dpi 7ccd81fd52dc](https://github.com/user-attachments/assets/ba1bcb05-f091-443f-bb24-c1b09a53ff73)
+
 2. Tastatur auf Deutsch stellen: `loadkeys de-latin1`
 3. Schauen ob das Netz geht: `ip a`
 4. Zeit einstellen: `timedatectl set-ntp true`
